@@ -1,10 +1,18 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Oswald;
+  font-weight: 300;
+  font-size: 1.4rem;
+  text-align: center;
+  background-color: #444;
+  color: #fff;
+}
+
+h1, h2 {
+  font-weight: 300;
+}
+
+MyBody {
+  margin-top: 50px;
 }
 
 code {
